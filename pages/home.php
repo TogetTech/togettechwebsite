@@ -1212,7 +1212,7 @@
                 <div class="c-footnotes">
                     <p >
                         <sup>*</sup>
-                        Please check with watch manufacturer to see if Wi-Fi is supported on your watch.
+                        En plus
                     </p>
                 </div>
             </div>
